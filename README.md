@@ -28,7 +28,7 @@ I'm an AI/ML professional passionate about building intelligent systems that sol
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [CTI Event Handler](https://github.com/Debosmita2022/cti-event-handler) | An async Python microservice | Python, FastAPI, uvicorn ,chain-of-thought prompting, FAISS + sentence-transformers (RAG pipeline) , Salesforce (simple-salesforce, Cases API, SOQL) , Docker, docker-compose |
+| [CTI Event Handler](https://github.com/Debosmita2022/cti-event-handler) | Agentic AI Pipeline of an async Python microservice | Python, FastAPI, uvicorn ,chain-of-thought prompting, FAISS + sentence-transformers (RAG pipeline) , Salesforce (simple-salesforce, Cases API, SOQL) , Docker, docker-compose |
 | [agentic-news-impact-forecasting](https://github.com/Debosmita2022/agentic-news-impact-forecasting) | Agentic pipeline that forecasts the market impact of news events | Python, LLM, Agents |
 | [insure-assist-agent](https://github.com/Debosmita2022/insure-assist-agent) | AI agent to assist with insurance queries and decisions | Python, LangChain |
 | [ai-travel-planner](https://github.com/Debosmita2022/ai-travel-planner) | LLM-powered travel planning assistant | Python, GenAI |
